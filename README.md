@@ -13,6 +13,7 @@ A simple and customizable QR Code Generator built using Python. This tool allows
 
 ->Easy to use and extend for other functionalities.
 
+
 **Tech Stack**
 
 Programming Language: Python
